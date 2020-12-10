@@ -1,2 +1,4 @@
 # Unit_Testing_TDD_Project
-Repository containing project for Unit Testing - Test Driven Development 
+Repozytorium z kodem potrzebnym do realizacji 
+Task1 zawiera propozycja schematu klasy
+Task2 zawiera klasy do testowania
